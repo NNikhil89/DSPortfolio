@@ -5,7 +5,7 @@ function Contact() {
     <div className="items-center justify-center mt-20">
 <div className="flex-col justify-center items-center mx-auto max-w-2xl px-4 text-center rounded-lg shadow-lg">
         <h2 className="text-xl md:text-2xl font-bold mb-4 pb-2 border-gray-300">Contact Me</h2>
-        <p>Thank you for reaching out! I appreciate open communication and welcome any questions, feedback, or potential collaboration opportunities.</p>
+        <p>Thank you for reaching out!! I appreciate open communication and welcome any questions, feedback, or potential collaboration opportunities.</p>
         <div className="flex justify-center items-center pb-3 mt-3">                        
             <a href="mailto:nnyamata@mail.yu.edu">
                 <svg class="w-8 h-8 text-gray-800 dark:text-white" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 24 24">

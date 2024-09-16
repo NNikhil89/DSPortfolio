@@ -10,7 +10,7 @@ function Header() {
     setIsOpen(!isOpen);
   };
   return (
-    <nav className="bg-cyan-800 p-4 mx-auto md:ml-3 md:mr-3 rounded-md max-w-screen-2xl">
+    <nav className="bg-cyan-800 p-4 mx-auto md:ml-3 md:mr-3 rounded-md max-w-screen-2xl mt-2">
       <div className="container flex justify-between items-center">
         {/* Logo or Brand */}
         <div className="text-white text-2xl font-bold">
